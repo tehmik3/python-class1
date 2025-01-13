@@ -44,4 +44,23 @@ for i in my_str:
 # pyth
 # pytho
 # python
+password: str = "python123"
+user_input: str = ""
+print ("user_input != password is", user_input != password)
+while user-input != password:  # user_input barabr nahi hy password k
+    print ("incorrect password!")
+    user_input = input("type your answer please!")
+# incorrect password!
+# type your answer please!
+# incorrect password!
+# type your answer please!
+# incorrect password!
+# type your answer please!
+# incorrect password!
+# type your answer please!
+print (user_input != password)
+# True
+print (password =="abcd")
+# False
+
 
