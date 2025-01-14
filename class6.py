@@ -62,5 +62,13 @@ print (user_input != password)
 # True
 print (password =="abcd")
 # False
+person = ("ayesha", 20 , "Ai_student")
+name,age,profession = person
+print(f"Name:{name}")
+print(f"Age:{age}")
+print(f"Profession:{profession}")
+# Name:ayesha
+# Age:20
+# Profession:Ai_student
 
 
