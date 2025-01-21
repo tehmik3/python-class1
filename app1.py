@@ -1,4 +1,4 @@
-#    DATA TYPES 
+#    DATA TYPES Dictionary/Def
 client_leads={"Aamir": 923000212,
               "Amanullah":923152484,"Arif":9217965}
 print (client_leads)
