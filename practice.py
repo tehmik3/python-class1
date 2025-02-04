@@ -15,8 +15,8 @@ my_intro += "Currently, I am gaining valuable experience at Governor House,"
 print(len(my_intro))
 # 161
 
-print(my_intro.find("for"))
-# 69
+print(my_intro.find("my"))
+# 7
 
 print(my_intro.replace("tahreem","tehmi"))
 # Hello, my name is tehmi khan,
